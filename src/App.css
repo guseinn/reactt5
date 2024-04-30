@@ -1,0 +1,7 @@
+.dice-container {
+  display: flex;
+}
+
+.dice {
+  margin-right: 20px;
+}
